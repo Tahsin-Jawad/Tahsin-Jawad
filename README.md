@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.jpg" width="100%" />
+</p>
 <h1 align="center">👋 Hi there, I'm Jawad</h1>
 <h3 align="center">A developer in progress, fueled by curiosity.</h3>
 
