@@ -1,7 +1,14 @@
 ![Tahsin Al Jawad Banner](./banner.jpg)
-<h1 align="center">👋 Hi there, I'm Jawad</h1>
+# Hi 👋, I'm Tahsin Al Jawad
 
 ### A developer in progress, fueled by curiosity.
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=520&lines=%24+whoami;Tahsin+Al+Jawad;%24+working_on;React+%E2%80%A2+TypeScript+%E2%80%A2+Next.js;%24+mindset;Consistency+over+perfection"
+    alt="Animated Terminal"
+  />
+</p>
 
 - 📫 How to reach me **jawadtahsinal@gmail.com**
 
