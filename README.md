@@ -7,11 +7,6 @@
 
 * 👨‍💻 All of my projects are available at **[https://tahsin-jawad.github.io](https://tahsin-jawad.github.io)**
 
-<h3 align="left">Connect with me:</h3>
-
-- 📫 How to reach me **jawadtahsinal@gmail.com**
-
-- 👨‍💻 All of my projects are available at **[https://tahsin-jawad.github.io](https://tahsin-jawad.github.io)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
